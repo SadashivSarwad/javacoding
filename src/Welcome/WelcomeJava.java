@@ -19,6 +19,9 @@ public class WelcomeJava {
 		
 		System.out.println(obj1.equals(obj2));
 		
+		System.out.println(obj1.length());
+	
+		
 		
 
 	}
